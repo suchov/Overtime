@@ -14,4 +14,4 @@
 - Email summary to manager for approval Need to be documented if employee did not log overtime
 
 ## UI:
-Bootsrap -> formatting
+- Bootsrap -> formatting
